@@ -7,3 +7,5 @@
 
 
 # Main goes on
+# Further dev of feature 2
+# Some patch to feature 2
